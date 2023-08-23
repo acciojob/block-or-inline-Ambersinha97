@@ -1,2 +1,5 @@
 
 /* Your CSS Code here. */
+.block-inline-button {
+	display: inline-block;
+}
